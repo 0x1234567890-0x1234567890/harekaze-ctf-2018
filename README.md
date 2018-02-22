@@ -12,9 +12,9 @@ Get the password!
 
 ## [Web 100] Sokosoko Secure Uploader
 
-[このサービス](SokosokoSecureUploader/server/)を使ってファイルを暗号化しました。暗号化後のファイルを添付しましたが、UUID は誤って削除してしまいました。覚えているのは、この UUID が 9e5a から始まることだけです :(
+[このサービス](SokosokoSecureUploader/server/)を使ってファイルを暗号化しました。暗号化後のファイルを添付しましたが、UUID は誤って削除してしまいました。覚えているのは、この UUID が `9e5a` から始まることだけです :(
 
-I encrypted my file by using [this service](SokosokoSecureUploader/server/). Attachment is the encrypted file, but I accidentally deleted the UUID of the file. All I remember is the UUID starts with 9e5a :(
+I encrypted my file by using [this service](SokosokoSecureUploader/server/). Attachment is the encrypted file, but I accidentally deleted the UUID of the file. All I remember is the UUID starts with `9e5a` :(
 
 ### Attachments
 
@@ -31,7 +31,7 @@ Solve 15-puzzle 1000 times!
 
 - [Harekaze15Puzzle.exe](15Puzzle/attachments/Harekaze15Puzzle.exe)
 
-## [Rev 200] Logger
+## [Rev+Net 200] Logger
 
 誰かにパスワードを盗まれました…(´・ω・｀)
 
